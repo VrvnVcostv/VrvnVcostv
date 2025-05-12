@@ -3,7 +3,7 @@ I'm a backend developer specialized in Java and Spring Boot. I enjoy building se
 
 🛠️ Main Techs: 
 Java
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
 Spring Boot
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/> 
 Angular
