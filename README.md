@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bruno and I'm a developer.</h2>
+<h1 align="left">Hi 👋! My name is Bruno and I'm a developer.</h1>
 
 ###
 
@@ -8,7 +8,7 @@
 </div>
 
 ###
-
+<h2 align="left">🛠 Main Techs: </h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
