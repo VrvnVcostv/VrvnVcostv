@@ -22,10 +22,8 @@
   <img width="12" />
 </div>
 
-###
+### 🐍 GitHub Contribution Snake
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/vrvnvcostv/vrvnvcostv/output/snake.svg" alt="Snake animation" />
+![snake gif](https://raw.githubusercontent.com/vrvnvcostv/vrvnvcostv/output/github-snake.svg)
 
 ###
